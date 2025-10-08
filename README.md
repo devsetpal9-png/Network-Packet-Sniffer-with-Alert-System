@@ -33,3 +33,51 @@ pip install -r requirements.txt
 
 # Run with admin privileges
 sudo python src/cli_interface.py --help
+```
+
+---
+
+## Usage 📖
+
+### Basic Packet Sniffing
+```bash
+sudo python src/cli_interface.py --interface eth0
+```
+
+### Capture Specific Number of Packets
+```bash
+sudo python src/cli_interface.py --count 100 --interface wlan0
+```
+
+### View Recent Packets
+```bash
+python src/cli_interface.py --show-packets
+```
+
+### View Security Alerts
+```bash
+python src/cli_interface.py --show-alerts
+```
+
+### Generate Traffic Report
+```bash
+python src/cli_interface.py --generate-report
+```
+
+## Project Structure 🏗️
+```
+network-packet-sniffer/
+├── src/                    # Source code
+│   ├── packet_sniffer.py   # Core packet capture engine
+│   ├── anomaly_detector.py # Anomaly detection algorithms
+│   ├── database_manager.py # Database operations
+│   ├── alert_system.py     # Alert management
+│   ├── cli_interface.py    # Command-line interface
+│   └── gui_dashboard.py    # Graphical interface (optional)
+├── data/                   # Database files (auto-generated)
+├── docs/                   # Documentation
+├── tests/                  # Unit tests
+├── requirements.txt        # Python dependencies
+├── config.py              # Configuration settings
+└── README.md              # Project documentation
+```
