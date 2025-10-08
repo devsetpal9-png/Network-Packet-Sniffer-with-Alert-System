@@ -63,6 +63,7 @@ python src/cli_interface.py --show-alerts
 ```bash
 python src/cli_interface.py --generate-report
 ```
+---
 
 ## Project Structure 🏗️
 ```
