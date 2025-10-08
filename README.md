@@ -74,7 +74,6 @@ Network-Packet-Sniffer-with-Alert-System/
 │   ├── database_manager.py # Database operations
 │   ├── alert_system.py     # Alert management
 │   └── cli_interface.py    # Command-line interface
-│                           # Graphical interface (optional)
 ├── data/                   # Database files (auto-generated)
 ├── docs/                   # Documentation
 ├── tests/                  # Unit tests
