@@ -79,8 +79,9 @@ Network-Packet-Sniffer-with-Alert-System/
 ├── docs/                   # Documentation
 ├── tests/                  # Unit tests
 ├── requirements.txt        # Python dependencies
-├── config.py              # Configuration settings
-└── README.md              # Project documentation
+├── config.py               # Configuration settings
+├── report.md               # Project documentation
+└── README.md             
 ```
 ---
 
