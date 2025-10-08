@@ -1,0 +1,3 @@
+# This file ensures Git keeps the data directory
+# Database files, logs, and reports will be stored here
+# Add this directory to .gitignore to exclude actual data files
