@@ -10,3 +10,11 @@ test_multiple_anomalies (test_anomaly_detector.TestAnomalyDetector) ... ok
 test_threshold_configuration (test_anomaly_detector.TestAnomalyDetector) ... ok
 test_missing_packet_fields (test_anomaly_detector.TestAnomalyDetectorEdgeCases) ... ok
 test_invalid_port_values (test_anomaly_detector.TestAnomalyDetectorEdgeCases) ... ok
+```
+
+**Missing Lines:**
+- Line 45: Error handling for interface issues
+- Line 78: Rare edge case in packet parsing
+- Line 89: Unreachable code path
+
+### src/anomaly_detector.py
