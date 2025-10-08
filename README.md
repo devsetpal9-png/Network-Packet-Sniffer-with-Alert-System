@@ -73,8 +73,8 @@ Network-Packet-Sniffer-with-Alert-System/
 │   ├── anomaly_detector.py # Anomaly detection algorithms
 │   ├── database_manager.py # Database operations
 │   ├── alert_system.py     # Alert management
-│   ├── cli_interface.py    # Command-line interface
-│   └── gui_dashboard.py    # Graphical interface (optional)
+│   └── cli_interface.py    # Command-line interface
+│                           # Graphical interface (optional)
 ├── data/                   # Database files (auto-generated)
 ├── docs/                   # Documentation
 ├── tests/                  # Unit tests
