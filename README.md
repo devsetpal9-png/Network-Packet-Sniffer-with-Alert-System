@@ -67,7 +67,7 @@ python src/cli_interface.py --generate-report
 
 ## Project Structure 🏗️
 ```
-network-packet-sniffer/
+Network-Packet-Sniffer-with-Alert-System/
 ├── src/                    # Source code
 │   ├── packet_sniffer.py   # Core packet capture engine
 │   ├── anomaly_detector.py # Anomaly detection algorithms
