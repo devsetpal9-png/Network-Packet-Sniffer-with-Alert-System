@@ -1,0 +1,6 @@
+timestamp,src_ip,dst_ip,src_port,dst_port,protocol,length,flags,anomaly
+202x-xx-xx 10:30:01,192.168.1.xxx,8.8.8.8,54321,53,UDP,78,,normal
+202x-xx-xx 10:30:02,192.168.1.xxx,142.250.189.14,54322,443,TCP,66,,normal
+202x-xx-xx 10:30:03,10.0.0.xxx,192.168.1.100,22,45678,TCP,60,,port_scan
+202x-xx-xx 10:30:04,192.168.1.xxx,192.168.1.255,12345,12345,UDP,150,,normal
+202x-xx-xx 10:30:05,192.168.1.xxx,208.67.222.222,54323,53,UDP,82,,normal
