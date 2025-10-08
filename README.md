@@ -25,8 +25,8 @@ A professional real-time network traffic monitoring tool with advanced anomaly d
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/network-packet-sniffer.git
-cd network-packet-sniffer
+git clone https://github.com/devsetpal9-png/Network-Packet-Sniffer-with-Alert-System.git
+cd Network-Packet-Sniffer-with-Alert-System
 
 # Install dependencies
 pip install -r requirements.txt
