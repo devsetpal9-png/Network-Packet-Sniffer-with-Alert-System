@@ -1,3 +1,37 @@
 # This file ensures Git keeps the data directory
 # Database files, logs, and reports will be stored here
 # Add this directory to .gitignore to exclude actual data files
+# Byte-compiled / optimized / DLL files
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.venv
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
