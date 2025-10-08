@@ -1,0 +1,20 @@
+{
+  "alerts": [
+    {
+      "timestamp": "2024-01-15 10:30:03",
+      "alert_type": "PORT_SCAN",
+      "severity": "HIGH",
+      "source_ip": "10.0.0.50",
+      "description": "Port scanning detected from 10.0.0.50",
+      "packet_info": "Multiple port connection attempts within short timeframe"
+    },
+    {
+      "timestamp": "2024-01-15 10:35:12",
+      "alert_type": "SUSPICIOUS_PORT",
+      "severity": "MEDIUM",
+      "source_ip": "192.168.1.15",
+      "description": "Connection to suspicious port 22 (SSH)",
+      "packet_info": "TCP connection attempt to SSH port from untrusted host"
+    }
+  ]
+}
