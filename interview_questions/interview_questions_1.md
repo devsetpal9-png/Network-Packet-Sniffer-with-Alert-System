@@ -1,4 +1,5 @@
-# ✅ 1–10: Fundamentals & Terminology
+# 🛡️ Top 50 Cybersecurity Interview Questions & Answers
+## ✅ 1–10: Fundamentals & Terminology
 
 1. **What is cybersecurity and why is it important?**  
    Cybersecurity protects systems, networks, and data from digital attacks. It's vital for maintaining confidentiality, integrity, and availability of information.
@@ -42,7 +43,7 @@
     - Proxy firewall  
     - Next-gen firewall
 
-# 🔐 11–20: Network Security & Threats
+## 🔐 11–20: Network Security & Threats
 
 11. **What is a firewall and how does it secure a network?**  
     It filters incoming/outgoing traffic based on rules, blocking unauthorized access.
@@ -82,7 +83,7 @@
 20. **What is social engineering? How do you prevent it?**  
     Manipulating people to gain access. Prevention includes training, awareness, and verification protocols.
 
-# 🦠 21–30: Malware & Attack Vectors
+## 🦠 21–30: Malware & Attack Vectors
 
 21. **What is phishing and how does it work?**  
     Fraudulent messages trick users into revealing sensitive info or clicking malicious links.
@@ -115,7 +116,7 @@
 30. **What is the role of antivirus software?**  
     Detects, prevents, and removes malware from systems.
 
-# 🔐 31–40: Cryptography & Security Tools
+## 🔐 31–40: Cryptography & Security Tools
 
 31. **What is the difference between white box and black box testing?**  
     - *White box*: Internal knowledge of system.  
@@ -151,7 +152,7 @@
     - *IDS*: Detects intrusions.  
     - *SIEM*: Provides centralized logging, correlation, and alerting.
 
-# 🧠 41–50: Advanced Concepts & Frameworks
+## 🧠 41–50: Advanced Concepts & Frameworks
 
 41. **What is threat hunting?**  
     Proactively searching for threats that evade traditional detection.
