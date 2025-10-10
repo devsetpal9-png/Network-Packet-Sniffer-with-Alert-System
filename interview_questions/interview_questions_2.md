@@ -148,7 +148,7 @@ The anomaly detection system that accurately identifies multiple threat types in
 ## ⏱️ Timeline & Learning
 
 ### Time to Completion
-**4–6 weeks** including planning, development, testing, and documentation.
+**2–3 weeks** including planning, development, testing, and documentation.
 
 ### Task Division
 Individual project – followed modular development with clear milestones.
