@@ -1,10 +1,18 @@
+<div align="center">
+  
 # Network Packet Sniffer with Alert System 🔍🚨
 
-A professional real-time network traffic monitoring tool with advanced anomaly detection capabilities, built for cybersecurity analysis and network monitoring.
+<p align="center">
+  <img src="./docs/banner.png" alt="Create & Evaluate Strong Passwords">
+</p>
+
+## A professional real-time network traffic monitoring tool with advanced anomaly detection capabilities, built for cybersecurity analysis and network monitoring.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
+
+</div>
 
 ## Features ✨
 
