@@ -121,7 +121,7 @@ The anomaly detection system that accurately identifies multiple threat types in
 ### Version Control
 - Git + GitHub  
 - Feature branch workflow  
-- Clear commit messages and documentation
+- Clear documentation
 
 ### Detection Algorithms
 - Threshold-based detection for port scanning and flooding  
