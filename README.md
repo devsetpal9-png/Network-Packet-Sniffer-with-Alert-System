@@ -21,7 +21,6 @@
 - **Multi-channel Alert System**: Real-time alerts via console, logs, and email
 - **Data Persistence**: SQLite database for packet logging and analysis
 - **Traffic Visualization**: Generate interactive reports and graphs
-- **CLI & GUI Interfaces**: Flexible user interfaces for different use cases
 - **Modular Architecture**: Easy to extend and customize
 
 ## Installation 🚀
